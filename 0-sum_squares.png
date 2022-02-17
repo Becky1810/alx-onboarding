@@ -1,0 +1,7 @@
+calculate the sum of square of given inputs of numbers.
+  input
+    read; 2,4,6.
+    sum = SQUARE[2] + SQUARE[4] + SQUARE[6].
+    when; SQUARE[2]=4, SQUARE[4]=8, SQUARE[6]=12.
+    print sum.
+  end.
